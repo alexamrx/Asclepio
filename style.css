@@ -1,0 +1,52 @@
+body{
+    background-image: url(img/fondo.png);
+    background-repeat: no-repeat;
+    background-size: 2000px;
+}
+.text{
+    color: #314E7C;
+    font-family: sans-serif,Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+.text-2{
+    color: #314E7C;
+    font-family:  sans-serif,Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+}
+.buton{
+    justify-content: center;
+    gap: 20px;
+    
+}
+.info{
+    position: relative;
+    bottom: 90px
+}
+.btn{
+    background-color: #314E7C;
+    color: white;
+    width: 200px;
+    height: 50px;
+
+}
+.card{
+    background-color: #d3e7f8;
+}
+.icono-1{
+    transition: all 200ms;
+}
+.icono-1:hover{
+    transform: scale(1.1);
+    
+}
+.icono-2{
+    transition: all 200ms;
+}
+.icono-2:hover{
+    transform: scale(1.1);
+    
+}
+footer{
+    background-color: #d3e7f8;
+    height: 300px;
+}
